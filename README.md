@@ -104,10 +104,14 @@ Pipes are used to pass output of one command as input to another.
 > ✅ **Conclusion**: Day 3 was focused on foundational Linux system concepts which are essential for system administration and scripting.
 
 ---
-###🔁Comparing two number:
+## 🔁Comparing two number:
 ![Image](https://github.com/user-attachments/assets/9c7973ff-bc2b-4681-85b2-aedc6684979d)
 ![Image](https://github.com/user-attachments/assets/8b0b46fb-1f8c-4cbe-aec7-07239c4f2f1d)
-
-
+## ✖️ Multiplication Table:
+![Image](https://github.com/user-attachments/assets/1df41c58-942c-424a-ab5f-e2e9c844cac9)
+![Image](https://github.com/user-attachments/assets/186cfac2-1d80-4429-a8de-20c08fc87b1a)
+## Using Variables
+_![Image](https://github.com/user-attachments/assets/90ccc87d-08b4-497f-bf07-80af9268ae8c)_
+![Image](https://github.com/user-attachments/assets/31524a57-1d40-4642-b77f-246b49bad2a8)
 _By: Kunal Parmar_
 
