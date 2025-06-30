@@ -104,7 +104,8 @@ Pipes are used to pass output of one command as input to another.
 > ✅ **Conclusion**: Day 3 was focused on foundational Linux system concepts which are essential for system administration and scripting.
 
 ---
-###🔁Comparin two number:
+###🔁Comparing two number:
+![Image](https://github.com/user-attachments/assets/9c7973ff-bc2b-4681-85b2-aedc6684979d)
 
 
 _By: Kunal Parmar_
