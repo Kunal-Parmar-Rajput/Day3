@@ -106,6 +106,7 @@ Pipes are used to pass output of one command as input to another.
 ---
 ###🔁Comparing two number:
 ![Image](https://github.com/user-attachments/assets/9c7973ff-bc2b-4681-85b2-aedc6684979d)
+![Image](https://github.com/user-attachments/assets/8b0b46fb-1f8c-4cbe-aec7-07239c4f2f1d)
 
 
 _By: Kunal Parmar_
